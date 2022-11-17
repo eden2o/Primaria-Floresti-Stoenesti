@@ -22,12 +22,6 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
       options: {
         url: `http://test.local/graphql`,
-        auth: {
-          htaccess: {
-            username: "kubeworkssrl",
-            password: "YYP1G3uC",
-          },
-        },
       },
     },
   ],

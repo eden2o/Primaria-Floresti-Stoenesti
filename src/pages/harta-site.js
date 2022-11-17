@@ -59,12 +59,12 @@ const HartaSite = () => {
             <li>
               <Link to="/primar/atributii">Atribuții</Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="/primar/biografie">Biografie</Link>
             </li>
             <li>
               <Link to="/primar/curriculum-vitae">Curriculum Vitae</Link>
-            </li>
+            </li> */}
             <li>
               <Link to="/primar/dispozitii">Dispozițiile Primarului</Link>
             </li>
@@ -137,15 +137,6 @@ const HartaSite = () => {
             </li>
             <li>
               <Link to="/informatii/formulare">Formulare Online</Link>
-            </li>
-            <li>
-              <Link to="/informatii/petitii-sesizari">Petiții/Sesizari</Link>
-            </li>
-            <li>
-              <Link to="/informatii/stiri">Știri</Link>
-            </li>
-            <li>
-              <Link to="/informatii/taxe-impozite">Taxe si Impozite</Link>
             </li>
           </ul>
         </li>

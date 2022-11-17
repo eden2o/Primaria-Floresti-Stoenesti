@@ -15,11 +15,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.1, privind aprobarea acoperirii deficitului
                 sectiunii de dezvoltare din anul 2013 in suma de 6603.42 lei din
                 excedentul bugetului local.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -29,11 +29,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei publice de indata a Consiliului
                 Local Floresti-Stoenesti, judetul Giurgiu, din data de
                 10.01.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -43,10 +43,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.2, privind revocarea Hotararii Consiliului Local
                 nr.53/20.12.2013.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -56,10 +56,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.3, privind completarea Hotararii Consiliului Local
                 al comunei Floresti-Stoenesti nr.46/08.10.2013.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -69,7 +69,7 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.4, privind aprobarea solicitarii de prelungire a
                 scrisorii de garantie bancara din partea FNGCIMM S.A IFN in
                 vederea prelungirii contractului de finantare pentru proiectul:
@@ -77,7 +77,7 @@ export default function hotarari2014() {
                 de pe teritoriul comunei Floresti-Stoenesti, judetul Giurgiu”
                 finantat din fonduri europene nerambursabile prin PNDR Masura
                 125.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -87,14 +87,14 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.5, privind aprobarea imprumutului pentru realizarea
                 proiectelor de investitii de interes local si de garantare a
                 imprumutului in valoare de 400000 lei, imputernicirea
                 persoanelor cu drept de semnatura si inscrierea obligatorie in
                 BVC pe perioada de creditare a volumului ratelor de credit, a
                 dobanzilor si comisioanelor aferente.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -104,11 +104,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.6, privind aprobarea cotizatiei comunei
                 Floresti-Stoenesti pentru Asociatia de Dezvoltare
                 Intercomunitara Euro-Apa.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -118,11 +118,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.7, privind aprobarea externalizarii serviciului de
                 contabllitate din cadrul Consiliului Local Floresti-Stoenesti
                 pentru anul 2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -132,12 +132,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.8, privind aprobarea incheierii unui Contract
                 pentru efectuarea serviciului de transport elevi prin curse
                 regulate pe traseul comuna Flore§ti-Stoene§ti - Bucuresti pentru
                 anul 2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -147,12 +147,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.9, privind aprobarea criteriilor si atributiilor
                 specifice in vederea ocuparii functiei de administrator public
                 la nivelul aparatului de specialitate al primarului comunei
                 Floresti-Sloenesti, judetul Giurgiu.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -162,11 +162,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei ordinare pe luna Ianuarie a
                 Consiliului Local Floresti-Stoenesti, judetul Giurgiu, din data
                 de 31.01.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -176,10 +176,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.10, privind aprobarea Bugetului de Venituri si
                 Cheltuieli si a Listei de Investitii pentru anul 2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -189,10 +189,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.11, privind modificarea valorii de inventar a
                 drumului de exploatare agricola denumit DE 404/Al.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -202,11 +202,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.12, privind primirea unui nou membru si
                 actualizarea Actului Constitutiv si Statutului Asociatiei de
                 Dezvoltare Intercomunitara Euro-Apa.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -216,13 +216,13 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.13, privind realizarea accesului public la
                 investitia finantata prin FEADR prin proiectul “Modernizarea
                 infrastructurii de acces la exploatatiile agricole dc pc
                 teritoriul comunei Floresti-Stoenesti, judetul Giurgiu” denumit
                 DE 404/A1, fara perceperea de taxe.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -232,11 +232,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei ordinare pe luna Februarie a
                 Consiliului Local Floresti-Stoenesti, judetul Giurgiu, din data
                 de 07.02.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -246,13 +246,13 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.14, privind aprobarea trecerii din domeniul public
                 in domeniul privat a imobilului in suprafata de 6375mp (cladire
                 715mp+ teren aferent 5660mp) situat in satul Stoenesti, strada 1
                 Decembrie 1918, nr.13, comuna Floresti-Stoenesti, judetul
                 Giurgiu.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -262,12 +262,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.15, privind aprobarea lucrarii de investitii
                 “Extindere si eficientizare activitate SC Ascendent SRL prin
                 creare unei sectii de prelucrare a otelului beton pentru
                 constructii in Comuna Floresti-Stoenesti”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -277,10 +277,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei extraordinare a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 18.02.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -290,11 +290,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.16, privind alegerea presedintelui de sedinta al
                 Consiliului Local Floresti-Stoenesti, judetul Giurgiu pe
                 perioada 28.02.2014-28.05.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -304,11 +304,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.17, privind aprobarea organizarii retelei sculure
                 pentru anul 2014-2015, pe raza teritoriala a Comunei
                 Floresti-Stoenesti, Judetul Giurgiu.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -318,11 +318,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.18, privind aprobarea participarii, alaturi de
                 Consiliul Local Voluntari si Consilul Local Sinesti, la
                 majorarea capitalului social al S.C. EURO APAVOL S.A.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -332,12 +332,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.19, privind aprobarea Planului comitetului local
                 pentru asigurarea resurselor umane, materiale si financiare
                 necesare situatiilor de urgenta pe anul 2014, la nivelul comunei
                 Floresti-Stoenesti, judetul Giurgiu.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -347,12 +347,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.20, privind actualizarea Planului de analiza si
                 acoperire a riscurilor din domeniul situatiilor de urgenta la
                 nivelul comunei Floresti-Stoenesti, judetul Giurgiu pe anul
                 2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -362,10 +362,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.21, privind aprobarea Raportului de evaluare a
                 capacitatii de aparare impotriva incendiilor pe anul 2013.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -375,11 +375,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.22, privind aprobarea RaportuIui privind analiza
                 dotarii cu mijloace de aparare impotriva incendiilor pe anul
                 2013.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -389,11 +389,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.23, privind instrumentarea proiectului “Modernizare
                 drumuri de interes local in comuna Floresti-Stoenesti, judetul
                 Giurgiu”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -403,12 +403,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.24, privind instrumentarea proiectului “Modernizare
                 strada Dispensarului, strada Gradinitei, strada Preot Emilian
                 Voiculescu, strada Magura, strada Merilor si strada Sogorani,
                 comuna Floresti-Stoenesti, judetul Giurgiu”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -418,11 +418,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.25, privind modificarea Hotararii Consiliului Local
                 nr.56/20.12.2013 pentru impozitele si taxele aplicabile in anul
                 2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -432,10 +432,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei extraordinare a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 28.02.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -445,11 +445,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.26, privind participarea Comunei
                 Floresti-Stoenesti, judetul Giurgiu la constituirea Asociatiei
                 Grupul de Actiune Locala Giurgiu Nord.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -459,11 +459,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.27, privind aprobarea reetificarii Bugetului de
                 venituri si cheltuieli pe anul 2014 si modificarea listei de
                 investitii.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -473,11 +473,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.36, privind aprobarea Raportului de activitate
                 privind activitatea de gestionare a situatiilor de urgenta la
                 nivelul comunei FIoresti-Stoenesti pe anul 2012.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -487,11 +487,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.28, privind rezilierea Contractului de Concesiune a
                 delegari gestiuni serviciului de salubrizare nr.
                 4815/22.09.2009.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -501,10 +501,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.29, privind stabilirea indemnizatiei lunare de
                 sedinta pentru consilieri locali.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -514,11 +514,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.30, privind modificarea componentei nominale a
                 comisiilor Consiliului Local al Comunei Floresti-Stoenesti,
                 aprobate prin HCL nr. 6/25.06.2012.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -528,11 +528,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.31, privind acordarea avizului de principiu
                 Planului Urbanistic General si Regulamentului local de Urbanism
                 al comunei Floresti-Stoenesti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -542,10 +542,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei ordinare a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 28.03.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -555,11 +555,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.32, privind aprobarea rectificarii Bugetului de
                 venituri si cheltuieli pe anul 2014 si modificarea listei de
                 investitii.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -569,11 +569,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.33, privind modificarea Statului de Functii si
                 Organigramei a aparatului de specialitate al primarului comunei
                 Floresti-Stoenesti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -583,10 +583,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.34, privind aprobarea decontarii navetei cadrelor
                 didactice de la Scoala Palanca si Scoala Floresti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -596,11 +596,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.35, privind aprobarea PUZ - “Sere-statiune de
                 cercetare, utilitati, platforma de acces, imprejmuire, cabine
                 poarta”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -610,11 +610,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.36, privind aprobarea Regulamentului de Eliberare a
                 Autorizatiei de Functionare referitor la desfasurarea
                 activitatilor economice pe raza comunei Floresti-Stoenesti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -624,10 +624,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei ordinare a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 30.04.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -637,7 +637,7 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.37, privind aprobarea solicitarii de prelungire a
                 scrisorii de garantie din partea FNGCIMM S.A. IFN in vederea
                 prelungirii contractului de finantare pentru proiectul:
@@ -645,7 +645,7 @@ export default function hotarari2014() {
                 de pe teritoriul comunei Floresti-Stoenesti, judetul Giurgiu”
                 finantat din fonduri europene nerambursabile - prin PNDR -
                 Masura 125.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -655,11 +655,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.38, privind instrumentarea proiectului “Alimentare
                 cu apa a satelor Palanca si Stoenesti, comuna
                 Floresti-Stoenesti, judetul Giurgiu”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -669,11 +669,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.39, privind instrumentarea proiectului “Alimentare
                 cu apa in satul Floresti, comuna Floresti Stoenesti, judetul
                 Giurgiu”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -683,10 +683,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 09.05.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -696,12 +696,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.40, privind schimbarea destinatiei in vederea
                 demolarii unei parti din cladirea Scoala Veche cu sediul in sat
                 Stoenesti, str. 1 Decembrie 1918, nr. 13, comuna
                 Floresti-Stoenesti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -711,10 +711,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.41, privind aprobarea decontarii navetei cadrelor
                 didactice de la Scoala Floresti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -724,12 +724,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.42, privind aprobarea participant comunei
                 Floresti-Stoenesti la constituirea Asociatia de Dezvoltare
                 Zonala Sabar si aprobarea Actului Constitutiv si Statutului
                 Asociatiei.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -739,12 +739,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.43, privind achizitionarea unor servicii de
                 consultanta in vederea constituirii cadrului institutional
                 adecvat pentru accesarea de fonduri nerambursabile in cadrul
                 noii generatii de finantare 2014-2020.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -754,11 +754,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.44, privind aprobarea contului anual de executie al
                 bugetului local, bugetului credite interne si al bugetului
                 venituri proprii 2013.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -768,11 +768,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.45, privind aprobarea rectificarii Bugetului de
                 venituri si cheltuieli pe anul 2014 si modificarea listei de
                 investitii.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -782,10 +782,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 22.05.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -795,10 +795,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 22.05.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -808,11 +808,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.46, privind alegerea presedintelui de sedinta
                 Consiliului Local Floresti-Stoenesti, Judetul Giurgiu pe
                 perioada 27.06.2014-27.09.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -822,11 +822,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.47, privind aprobarea taxei speciale pentru
                 colectarea si transportul deseurilor menajere de pe raza comunei
                 Floresti-Stoenesti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -836,11 +836,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.48, prin care se ia act de demisia consilierului
                 local Malusparteanu Florin si vacantarea mandatului de consilier
                 local.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -850,13 +850,13 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.49, privind aprobarea noii cote de contributie
                 proprie aferenta cheltuielilor eligibile comunei
                 Floresti-Stoenesti, pentru proiectul “Protectia resurselor de
                 apa, prin realizarea sistemelor integrate de alimentare cu apa,
                 statii de tratare, canalizare si statii de epurare”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -866,11 +866,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.50, privind modificarea Hotararilor Consiliului
                 Local, com. Floresti-Stoenesti nr. 50/27.11.2013,
                 nr.51/27.11.2013 si nr.53/27.11.2013.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -880,11 +880,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.50, privind modificarea Hotararilor Consiliului
                 Local, com. Floresti-Stoenesti nr. 50/27.11.2013,
                 nr.51/27.11.2013 si nr.53/27.11.2013.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -894,11 +894,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.51, privind aprobarea rectificarii Bugetului de
                 venituri si cheltuieli pe anul 2014 si modificarea listei de
                 investitii.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -908,10 +908,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 27.06.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -921,11 +921,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.52, privind aprobarea rectificarii Bugetului de
                 venituri si cheltuieli pe anul 2014 si modificarea listei de
                 investitii.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -935,10 +935,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.53, privind actualizarea inventarului bunurilor ce
                 apartin domeniului privat al comunei Floresti-Stoenesti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -948,10 +948,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.54, privind actualizarea inventarului bunurilor ce
                 apartin domeniului public al comunei Floresti-Stoenesti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -961,11 +961,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.55, privind revocarea HCL nr.33/30.04.2014 privind
                 modificarea Statului de Functii si Organigramei a aparatului de
                 specialitate al primarului comunei Floresti-Stoenesti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -975,11 +975,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.56, privind modificarea Statului de Functii si
                 Organigramei a aparatului de specialitate al primarului comunei
                 Floresti-Stoenesti.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -989,13 +989,13 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.57, privind solicitarea adresata Ministerului
                 Educatiei Nationale pentru emiterea avizului conform in vederea
                 schimbarii destinatiei imobiliului “Scoala Veche-Stoenesti” din
                 satul Stoenesti, str. 1 Decembrie 1918, comuna
                 Floresti-Stoenesti, judet Giurgiu.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1005,10 +1005,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.58, privind modificarea Hotararii Consiliului Local
                 al comunei Floresti-Stoenesti nr.50/27.06.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1018,10 +1018,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.59, privind reglementarea acordarii ajutoarelor de
                 urgenta si ajutoarelor de inmormantare.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1031,10 +1031,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 18.07.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1044,11 +1044,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.60, privind aprobarea rectificarii Bugetului de
                 venituri si cheltuieli pe anul 2014 si modificarea listei de
                 investitii.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1058,7 +1058,7 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.61, privind aprobarea solicitarii de prelungire a
                 scrisorii de garantie din partea FNGCIMM S.A. IFN in vederea
                 prelungirii contractului de finantare pentru proiectul:
@@ -1066,7 +1066,7 @@ export default function hotarari2014() {
                 de pe teritoriul comunei Floresti-Stoenesti, judetul Giurgiu”
                 finantat din fonduri europene nerambursabile - prin PNDR -
                 Masura 125.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1076,12 +1076,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.62, privind aprobarea indicatorilor tehnico
                 economici si ai cofinantarii pentru investitia “Alimentare cu
                 apa a satelor Palanca si Stoenesti comuna Floresti-Stoenesti,
                 judetul Giurgiu”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1091,10 +1091,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.63, privind modificarea Hotararilor Consiliului
                 Local al com. Floresti-Stoenesti nr. 5,6,7,8/31.01.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1104,10 +1104,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 11.08.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1117,14 +1117,14 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.64, privind revocarea Hotararii Consiliului Local
                 al Comunei Floresti-Stoencsti nr.14/18.02.2014 de “Aprobarea
                 trecerii din domeniul public in domeniul privat a imobilului in
                 suprafata de 6375 mp (cladire 715 mp + teren aferent 5600 mp)
                 situat in satul Stoenesti, strada 1 Decembrie 1918, nr. 13,
                 comuna Floresti-Stoenesti, judet Giurgiu”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1134,13 +1134,13 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.65, privind revocarea Hotararii Consiliului Local
                 al Cornunei Floresti-Stoenesti nr.15/18.02.2014 de aproharca
                 lucrarii de investitii “Extindere si eficientizare activitate SC
                 Ascendent SRL prin crearea unei sectii de prelucrare a otelului
                 beton pentru constructii in Comuna Floresti-Stoenesti”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1150,13 +1150,13 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.66, privind solicitarea adresata Ministerului
                 Educatiei Nationale pentru emiterea avizului conform in vederea
                 demolarii imobiliului “Scoala Veche -Stoenesti” din satul
                 Stoenesti str. 1 Decembrie 1918, comuna Floresti-Stoenesti,
                 judet Giurgiu.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1166,10 +1166,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 09.09.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1179,11 +1179,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.67, privind alegerea presedintelui de sedinta
                 Consiliului Local Floresti-Stoenesti, Judetul Giurgiu pe
                 perioada 30.09.2014-30.12.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1193,11 +1193,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.68, privind aprobarea rectificarii Bugetului de
                 venituri si cheltuieli pe anul 2014 si modificarea listei de
                 investitii.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1207,10 +1207,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 30.09.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1220,12 +1220,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.69, privind aprobarea indicatorilor tehnico
                 economici si ai cofinantarii pentru investitia “Alimentare cu
                 apa a satului Floresti, comuna Floresti-Stoenesti, judetul
                 Giurgiu”.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1235,11 +1235,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.70, privind aprobarea rectificarii Bugetului de
                 venituri si cheltuieli pe anul 2014 si modificarea listei de
                 investitii.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1249,10 +1249,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 15.10.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1262,11 +1262,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.71, privind aprobarea rectificarii Bugetului de
                 venituri si chcltuieli pe anul 2014 si modificarea listei de
                 investitii.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1276,7 +1276,7 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.72, privind aprobarea solicitarii de prelungire a
                 scrisorii de garantie din partea FNGCIMM S.A IFN in vederea
                 prelungirii contractului de finantare pentru proiectul:
@@ -1284,7 +1284,7 @@ export default function hotarari2014() {
                 de pe teritoriul comunei Floresti-Stoenesti, judetul Giurgiu”
                 finantat din fonduri europene nerambursabile prin PNDR Masura
                 125.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1294,12 +1294,12 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.73, privind aprobarea modificarii Hotararilor
                 Consiliului Local Floresti-Stoenesti nr.18,23,24/28.02.2014 si
                 revocarea Hotarari Consiliului Local Floresti-Stoenesti
                 nr.5/31.01.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1309,10 +1309,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.74, privind aprobarea contractarii unui credit de
                 la Banca Comerciala Carpatica SA.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1322,14 +1322,14 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.75, privind aprobarea scutirii, de la plata a
                 impozitului pe cladiri, taxe transport, impozit pe teren
                 intravilan, extravilan, de la plata majorarilor de intarziere si
                 penalitatilor aferente obligatiilor bugetare la bugetul local,
                 pentru persoanele fizice si juridice din Floresti-Stoenesti,
                 care au facut cereri de scutire.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1339,10 +1339,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 31.10.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1352,11 +1352,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.76, privind aprobarea initierii unui proiect de
                 Hotarare de Guvern, pentru plata unor plati restante pentru
                 comuna Floresti-Stoenesti, judetul Giurgiu.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1366,10 +1366,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 06.11.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1379,10 +1379,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.76bis, privind aprobarea rectificarii Bugetului de
                 venituri si cheltuieli pe anul 2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1392,10 +1392,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 10.12.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1405,10 +1405,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.77, privind aprobarea modificarii Bugetului de
                 venituri si cheltuieli pe anul 2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1418,10 +1418,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 19.12.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1431,10 +1431,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.78, privind aprobarea modificarii Bugetului de
                 venituri si cheltuieli pe anul 2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1444,10 +1444,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 24.12.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1457,11 +1457,11 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.79, privind alegerea presedintelui de sedinta
                 Consiliului Local Floresti-Stoenesti, Judetul Giurgiu pe
                 perioada 29.12.2014-30.03.2015.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1471,10 +1471,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.80, proiect de hotarare privind impozitele si
                 taxele aplicabile incepand cu anul 2015.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1484,14 +1484,14 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.81, privind aprobarea scutirii, de la plata a
                 impozitului pe cladiri, taxe transport, impozit pe teren
                 intravilan, extravilan, de la plata majorarilor de intarziere si
                 penalitatilor aferente obligatiilor bugetare la bugetul local,
                 pentru persoanele fizice si juridice din Floresti-Stoenesti,
                 care an facut cereri de scutire.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1501,13 +1501,13 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 HOTĂRÂREA NR.82, privind aprobarea modificarii Hotararilor
                 Consiliului Local Floresti-Stoenesti nr. 31/28.03.2014,
                 35/30.04.2014, 38/09.05.2014, 39/09.05.2014, 41/22.05.2014,
                 43/22.05.2014 si revocarea Hotararilor Consiliului Local
                 Floresti-Stoenesti nr. 36/30.04.2014 si 40/22.05.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>
@@ -1517,10 +1517,10 @@ export default function hotarari2014() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
+               
                 Procesul Verbal al sedintei de indata a Consiliului Local
                 Floresti-Stoenesti, judetul Giurgiu, din data de 29.12.2014.
-              </span>
+               
               <VscFilePdf style={style} />
             </div>
           </a>

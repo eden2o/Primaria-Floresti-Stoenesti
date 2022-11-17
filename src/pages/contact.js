@@ -7,7 +7,7 @@ const contact = () => {
   return (
     <main className="pageContainer">
       <div>
-        <h1>Contact - Primăria Comunei Floresti-Stoenesti </h1>
+        <h1>Contact - Primăria Comunei Floresti-Stoenesti</h1>
         <p
           style={{
             textAlign: "justify",

@@ -57,12 +57,12 @@ export default function Navigation() {
               <NavDropdown.Item as={Link} to="/primar/atributii">
                 Atribuții
               </NavDropdown.Item>
-              <NavDropdown.Item as={Link} to="/primar/biografie">
+              {/* <NavDropdown.Item as={Link} to="/primar/biografie">
                 Biografie
-              </NavDropdown.Item>
-              <NavDropdown.Item as={Link} to="/primar/curriculum-vitae">
+              </NavDropdown.Item> */}
+              {/* <NavDropdown.Item as={Link} to="/primar/curriculum-vitae">
                 Curriculum Vitae
-              </NavDropdown.Item>
+              </NavDropdown.Item> */}
               <NavDropdown.Item as={Link} to="/primar/dispozitii">
                 Dispozițiile Primarului
               </NavDropdown.Item>
@@ -132,15 +132,6 @@ export default function Navigation() {
               <NavDropdown.Item as={Link} to="/informatii/formulare">
                 Formulare Online
               </NavDropdown.Item>
-              <NavDropdown.Item as={Link} to="/informatii/petitii-sesizari">
-                Petiții/Sesizări
-              </NavDropdown.Item>
-              <NavDropdown.Item as={Link} to="/informatii/stiri">
-                Știri
-              </NavDropdown.Item>
-              <NavDropdown.Item as={Link} to="/informatii/taxe-impozite">
-                Taxe si impozite
-              </NavDropdown.Item>
             </NavDropdown>
             <NavDropdown as="li" title="Servicii Online">
               <NavDropdown.Item as={Link} to="/plata-online">
@@ -179,18 +170,18 @@ export default function Navigation() {
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link as={Link} to="/mol">
-              MOL
+              Monitorul Oficial Local
             </Nav.Link>
             <Nav.Link as={Link} to="/contact">
               Contact
             </Nav.Link>
-            <Nav.Link
+            {/* <Nav.Link
               active={false}
               href="https://www.ghiseul.ro/ghiseul/public/"
               target="_blank"
             >
               Ghișeul.ro
-            </Nav.Link>
+            </Nav.Link> */}
           </Nav>
         </Navbar.Collapse>
       </Navbar>

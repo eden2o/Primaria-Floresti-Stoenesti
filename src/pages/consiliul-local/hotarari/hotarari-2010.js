@@ -15,13 +15,11 @@ export default function hotarari2010() {
             rel="noreferrer"
           >
             <div className="pdf">
-              <span>
-                HOTĂRÂREA NR.58, privind aprobarea scutirii de la plata
-                impozitelor si taxelor locale pe anul 2011 si acordarea
-                bonificatiei pentru persoanele care se incadreaza in prevederile
-                Legii nr. 571/2003 Codul Fiscal cu modificarile si completarile
-                ulterioare.
-              </span>
+              HOTĂRÂREA NR.58, privind aprobarea scutirii de la plata
+              impozitelor si taxelor locale pe anul 2011 si acordarea
+              bonificatiei pentru persoanele care se incadreaza in prevederile
+              Legii nr. 571/2003 Codul Fiscal cu modificarile si completarile
+              ulterioare.
               <VscFilePdf style={style} />
             </div>
           </a>

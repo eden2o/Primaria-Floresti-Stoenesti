@@ -7,7 +7,7 @@ const query = graphql`
     allWpPost(
       filter: {
         categories: {
-          nodes: { elemMatch: { uri: {}, name: { eq: "Anunturi Publice" } } }
+          nodes: { elemMatch: { uri: {}, name: { eq: "Anunţuri publice" } } }
         }
       }
       sort: { fields: date, order: DESC }

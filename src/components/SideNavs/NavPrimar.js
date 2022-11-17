@@ -17,7 +17,7 @@ export default function NavPrimar() {
               Atribuții
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               className={styles.link}
               activeClassName="active"
@@ -34,7 +34,7 @@ export default function NavPrimar() {
             >
               Curriculum Vitae
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link
               className={styles.link}

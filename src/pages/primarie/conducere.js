@@ -34,7 +34,7 @@ const Conducere = () => {
             <CgProfile />
             <div>
               <h2>Secretar General (delegat)</h2>
-              <p style={{ fontSize: "1.3rem" }}> Mihai Florin-Cătălin</p>
+              <p style={{ fontSize: "1.3rem" }}> Matache Alexandru</p>
               <p>secretar@floresti-stoenesti.ro </p>
             </div>
           </div>

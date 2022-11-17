@@ -17,6 +17,8 @@ const Harta = () => {
           data-label_1="FLOREȘTI-STOENEȘTI"
           data-label_2="Vreme"
           data-theme="original"
+          target="_blank"
+          rel="noreferrer"
         >
           FLOREȘTI-STOENEȘTI Vreme
         </a>

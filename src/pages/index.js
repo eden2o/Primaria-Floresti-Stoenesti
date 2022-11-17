@@ -14,7 +14,6 @@ export default function Home() {
       <Hero />
       <div className="siteWrapper">
         <Primar />
-        <Newsfeed />
         <EventFeed />
         <NoticeFeed />
       </div>

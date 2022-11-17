@@ -32,7 +32,7 @@ export default function NavInformatii() {
               activeClassName="active"
               to="/informatii/anunturi"
             >
-              Anunțuri
+              Anunțuri Publice
             </Link>
           </li>
           <li>
@@ -60,33 +60,6 @@ export default function NavInformatii() {
               to="/informatii/formulare"
             >
               Formulare
-            </Link>
-          </li>
-          <li>
-            <Link
-              className={styles.link}
-              activeClassName="active"
-              to="/informatii/petitii-sesizari"
-            >
-              Petiții si Sesizări
-            </Link>
-          </li>
-          <li>
-            <Link
-              className={styles.link}
-              activeClassName="active"
-              to="/informatii/stiri"
-            >
-              Știri
-            </Link>
-          </li>
-          <li>
-            <Link
-              className={styles.link}
-              activeClassName="active"
-              to="/informatii/taxe-impozite"
-            >
-              Taxe si Impozite
             </Link>
           </li>
         </ul>
