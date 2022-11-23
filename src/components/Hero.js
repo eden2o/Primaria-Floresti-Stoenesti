@@ -15,7 +15,6 @@ const Hero = () => {
         />
         <Carousel.Caption className="slide-1">
           <h4 className="hero-caption">Florești-Stoenești</h4>
-          <p className="hero-text">Cea mai frumoasă comună</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -27,7 +26,6 @@ const Hero = () => {
         />
         <Carousel.Caption className="slide-2">
           <h4 className="hero-caption">Florești-Stoenești</h4>
-          <p className="hero-text">Cea mai iubită comună</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -39,7 +37,6 @@ const Hero = () => {
         />
         <Carousel.Caption className="slide-3">
           <h4 className="hero-caption">Florești-Stoenești</h4>
-          <p className="hero-text">Cea mai tare comună</p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
