@@ -10,7 +10,6 @@
 html {
   height: 100%;
   overflow-x: hidden;
-  color: #004172;
 }
 body {
   width: 100%;
@@ -151,6 +150,58 @@ a.active {
   margin: 0 auto;
   min-width: 80%;
   max-width: 1400px;
+}
+
+/* Harta Site */
+.titlu-Harta{
+  text-align: center;
+  padding-top: 1.5rem;
+}
+.descriere-Harta{
+  padding-top: 1.5rem;
+  color: #999999;
+  font-size: 1.3rem !important;
+}
+.subtitlu-Harta{
+  font-size: 2rem;
+  color: #d6794d;
+  padding-top: 1.5rem;
+}
+.subarrow{
+  margin-top: 0.5rem;
+}
+.main-category{
+  padding-top: 1.5rem;
+  color: #d6794d;
+  font-size: 1.3rem;
+  list-style-type: none;
+}
+.main-category li{
+  list-style-type: none;
+  padding-left: 2rem;
+}
+.main-category li:hover{
+  margin-left: 1rem;
+}
+.main-category .ms{
+  padding-top: 1.5rem;
+  color: #d6794d;
+  font-size: 1.5rem;
+  list-style-type: none;
+}
+.main-category .svg{
+  width: 10%;
+}
+.main-category li{
+  font-size: 3rem;
+}
+.soloLink{
+  padding-top: 1.5rem;
+  font-size: 1.3rem;
+  list-style-type: none;
+}
+.soloLink:hover{
+  margin-left: 1rem;
 }
 
 /* Harta */
