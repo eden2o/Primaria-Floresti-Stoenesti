@@ -14,8 +14,8 @@ export default function Home() {
       <Hero />
       <div className="siteWrapper">
         <Primar />
-        <EventFeed />
-        <NoticeFeed />
+        {/* <EventFeed />
+        <NoticeFeed /> */}
       </div>
       <Harta />
     </>
