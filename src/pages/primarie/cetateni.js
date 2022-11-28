@@ -25,7 +25,7 @@ const Cetateni = () => {
           ca semn de recunoaştere a talentului sportiv şi a contribuţiei aduse
           la sporirea prestigiului comunei.
         </p>
-        <div className="imagini-cetateni">Poze grid</div>
+        {/* <div className="imagini-cetateni">Poze grid</div> */}
       </main>
       <div className="sideNav">
         <NavPrimarie />

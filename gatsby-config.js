@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: `gatsby-source-wordpress`,
       options: {
-        url: `https://floresti-stoenesti.ro/graphql`,
+        url: `http://floresti-stoenesti.ro/graphql`,
       },
     },
   ],
