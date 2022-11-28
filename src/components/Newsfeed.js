@@ -18,7 +18,7 @@ const query = graphql`
           id
           title
           excerpt
-          uri
+          slug
           author {
             node {
               name
@@ -50,7 +50,7 @@ const Newsfeed = () => {
           return (
             <div key={post.node.id} className={styles.card}>
               <div className={styles.image}>
-                <Link to={post.node.uri}>
+                <Link to={post.node.slug}>
                   <GatsbyImage
                     objectFit="cover"
                     image={
@@ -67,7 +67,7 @@ const Newsfeed = () => {
                   {post.node.author.node.name}
                 </span>
               </div>
-              <Link to={post.node.uri} className={styles.title}>
+              <Link to={post.node.slug} className={styles.title}>
                 <h2>{post.node.title}</h2>
               </Link>
               <p
@@ -76,7 +76,7 @@ const Newsfeed = () => {
                   __html: post.node.excerpt,
                 }}
               ></p>
-              <Link to={post.node.uri} className={styles.link}>
+              <Link to={post.node.slug} className={styles.link}>
                 <ImCircleRight />
                 Citește întreg articolul
               </Link>

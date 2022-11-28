@@ -8,7 +8,7 @@ const query = graphql`
   {
     allWpPost(
       filter: {
-        categories: { nodes: { elemMatch: { uri: {}, name: { eq: "Stiri" } } } }
+        categories: { nodes: { elemMatch: { name: { eq: "Stiri" } } } }
       }
       sort: { fields: date, order: DESC }
       limit: 4
@@ -18,7 +18,7 @@ const query = graphql`
           id
           title
           excerpt
-          uri
+          slug
           author {
             node {
               name
@@ -51,7 +51,7 @@ const NoticeFeed = () => {
           return (
             <div key={post.node.id} className={styles.card}>
               <div className={styles.image}>
-                <Link to={post.node.uri}>
+                <Link to={post.node.slug}>
                   <GatsbyImage
                     image={
                       post.node.featuredImage.node.localFile.childImageSharp
@@ -68,7 +68,7 @@ const NoticeFeed = () => {
                   {post.node.author.node.name}
                 </span>
               </div>
-              <Link to={post.node.uri} className={styles.title}>
+              <Link to={post.node.slug} className={styles.title}>
                 <h2>{post.node.title}</h2>
               </Link>
               <p
@@ -77,7 +77,7 @@ const NoticeFeed = () => {
                   __html: post.node.excerpt,
                 }}
               ></p>
-              <Link to={post.node.uri} className={styles.link}>
+              <Link to={post.node.slug} className={styles.link}>
                 <ImCircleRight />
                 Citește întreg articolul
               </Link>
