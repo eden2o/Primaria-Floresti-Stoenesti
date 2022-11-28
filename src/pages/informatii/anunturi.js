@@ -101,7 +101,7 @@ export const query = graphql`
     allWpPost(
       filter: {
         categories: {
-          nodes: { elemMatch: { uri: {}, name: { eq: "Stiri" } } }
+          nodes: { elemMatch: { uri: {}, name: { eq: "Anunturi Publice" } } }
         }
       }
       sort: { fields: date, order: DESC }
