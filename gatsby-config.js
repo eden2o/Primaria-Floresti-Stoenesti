@@ -22,6 +22,10 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
       options: {
         url: process.env.WPGRAPHQL_URL,
+        auth: {
+          htaccess_user: "nicu",
+          htaccess_pass: "Nicu2021#",
+        },
         // ||    `https://staging.floresti-stoenesti.ro/graphql`
       },
     },
