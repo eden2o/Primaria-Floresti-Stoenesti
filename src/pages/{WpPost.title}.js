@@ -30,6 +30,9 @@ const PostTemplate = ({ data }) => {
           image={imagePath}
           alt="image"
           className={styles.articleImage}
+          // layout="constrained"
+          // height="600"
+          // width="800"
         />
         <div
           dangerouslySetInnerHTML={{
